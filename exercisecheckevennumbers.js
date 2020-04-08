@@ -4,5 +4,5 @@ function evenOrOdd(num) {
     } else {
         return "odd"
     }
-    console.log(num)
 }
+console.log(evenOrOdd(11))
